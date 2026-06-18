@@ -74,7 +74,7 @@ O design é **minimalista e moderno**, com foco em uma excelente experiência do
 
 > 💡 *Para adicionar screenshots reais:*
 > 1. Tire screenshots do seu projeto
-> 2. Faça upload no [Imgur](https://imgur.com/) ou [GitHub Issues](https://github.com)
+> 2. Faça upload (https://[GitHub Issues](https://github.com)
 > 3. Substitua os links `via.placeholder.com`
 
 ---
