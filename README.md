@@ -57,25 +57,10 @@ O design é **minimalista e moderno**, com foco em uma excelente experiência do
 ### 🖥️ Desktop
 <div align="center">
 
-![Preview Desktop](https://via.placeholder.com/1200x600?text=Preview+Desktop)
-
-*Layout de desktop com navegação lateral e artigo em destaque*
-
 </div>
 
 ### 📱 Mobile
-<div align="center">
-
-![Preview Mobile](https://via.placeholder.com/400x800?text=Preview+Mobile)
-
-*Layout responsivo otimizado para dispositivos móveis*
-
-</div>
-
-> 💡 *Para adicionar screenshots reais:*
-> 1. Tire screenshots do seu projeto
-> 2. Faça upload (https://[GitHub Issues](https://github.com)
-> 3. Substitua os links `via.placeholder.com`
+<div align="center"/>
 
 ---
 
